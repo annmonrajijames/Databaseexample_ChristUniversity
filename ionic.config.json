@@ -1,0 +1,7 @@
+{
+  "name": "databaseexample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
